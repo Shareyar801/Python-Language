@@ -4,7 +4,7 @@ age: int = 20
 int_var2 = 2 ** 3
 weight = 88.914
 gender = 'M'
-name = "Sharyar " \
+name = "Shammmmryar " \
        "farooqui"  # multi line string input but however it will provide output in single line.
 married: bool = False
 
