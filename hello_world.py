@@ -11,7 +11,7 @@ name = "Shammmmryar " \
 married: bool = False
 about = ["born in Islamabad", "lives in karachi", "previous residence: hyderabad", 2001, 5.8]
 about.append('share')
-about.insert(3, 'share')
+about.insert(3, 'sharsae')
 about2: list = about + ["doing bsit"]
 about2.remove(2001)
 print(about.pop)
