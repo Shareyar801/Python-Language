@@ -16,7 +16,7 @@ def basics_variables():
 
     print("USING IF ELSE STATEMENT ON VARIABLES:")
     if not age < 18 or age == 18:
-        print("Your age is " + str(age) + " so you can vote.")
+        print("Your age is " + str(age) + " so you can vote..")
 
     elif age < 18:
         print("You are under legal age of 18 to vote.")
