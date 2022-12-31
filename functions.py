@@ -18,3 +18,4 @@ keyword_working(9,8,7) #with custom parameters
 print('\nFunction 02:')
 X, Y, Z = return_working()
 print('Z= %s, Y= %s, X= %s' % (X, Y, Z))
+#In Python both %s and %d are placeholders for a string and a number respectively.
